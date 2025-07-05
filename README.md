@@ -55,8 +55,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-DataAnalyst&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-![Antoniel GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-antoniel&show_icons=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-antoniel&layout=compact)
+![Antoniel GitHub stats](https://github-readme-stats.vercel.app/api?username=marcio-DataAnalyst&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-DataAnalyst&layout=compact)
 
 
 ---

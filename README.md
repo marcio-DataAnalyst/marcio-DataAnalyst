@@ -9,8 +9,9 @@
 - 🧠 Estudo **Estatística Aplicada**, **SQL**, **R** e ferramentas de BI para tomada de decisões orientadas por dados  
 - 📈 Familiaridade com projetos de visualização utilizando **Power BI** e **Excel Avançado**  
 - 💬 Posso te ajudar com: **Power BI, Excel, SQL, R e Python**  
-- 📫 Contato: **vogadoguerrajuniormarcio@gmail.com**  
-- 🔗 [Acesse meu LinkedIn profissional](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
+- 📫 E-mail: **vogadoguerrajuniormarcio@gmail.com**  
+- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/558999449630)  
+- 🔗 [LinkedIn profissional](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
 
 ---
 

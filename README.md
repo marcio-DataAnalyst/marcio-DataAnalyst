@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **Power BI, Excel, SQL, R e Python**
 
-- 📫 Você me acha através do e-mail **@gmail**
+- 📫 Você me acha através do e-mail **vogadoguerrajuniormarcio@gmail**
 
 - 📄Conheça minhas experiências [https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
 

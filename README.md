@@ -39,6 +39,9 @@
   <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+  </a>
 </p>
 
 ---

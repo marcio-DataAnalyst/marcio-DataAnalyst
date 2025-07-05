@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Márcio 👋</h1>
+<h1 align="center">Olá, sou o Márcio 👋</h1>
 <h3 align="center">Analista de Dados em formação, apaixonado por transformar dados em decisões</h3>
 
 ---

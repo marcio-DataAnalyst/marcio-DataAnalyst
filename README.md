@@ -55,9 +55,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-DataAnalyst&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="./b717dc1b-efb0-49ae-b84d-0372205184d4.png" alt="GitHub Stats" />
-</p>
+![Antoniel GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-antoniel&show_icons=true&theme=dark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-antoniel&layout=compact)
+
 
 ---
 

@@ -5,11 +5,12 @@
 
 🎯 **Sobre mim**
 
-- 📚 Estudando **Python para Análise de Dados** e ferramentas modernas do ecossistema de dados  
-- 💡 Interesse especial em **Business Intelligence (BI)**, **SQL**, **Estatística Aplicada** e **Machine Learning**  
-- 💬 Posso te ajudar com: **Power BI, Excel Avançado, SQL, R e Python**  
+- 📊 Tenho experiência prática com **Python** aplicado à Análise de Dados, explorando bibliotecas como `Pandas`, `NumPy`, `Matplotlib` e `Seaborn`  
+- 🧠 Estudo **Estatística Aplicada**, **SQL**, **R** e ferramentas de BI para tomada de decisões orientadas por dados  
+- 📈 Familiaridade com projetos de visualização utilizando **Power BI** e **Excel Avançado**  
+- 💬 Posso te ajudar com: **Power BI, Excel, SQL, R e Python**  
 - 📫 Contato: **vogadoguerrajuniormarcio@gmail.com**  
-- 🔗 [LinkedIn profissional](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
+- 🔗 [Acesse meu LinkedIn profissional](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
 
 ---
 

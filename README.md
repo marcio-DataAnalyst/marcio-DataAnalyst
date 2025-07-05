@@ -34,8 +34,8 @@
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
   </a>
-  <a href="(https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40" alt="Excel"/>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40" alt="Excel"/>
   </a>
 </p>
 

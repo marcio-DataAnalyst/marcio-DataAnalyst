@@ -42,7 +42,10 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
   </a>
-</p>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006550.png" width="40" height="40" alt="REST API"/>
+  </a>
+</p>p>
 
 ---
 

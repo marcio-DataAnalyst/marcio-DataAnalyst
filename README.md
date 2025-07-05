@@ -11,7 +11,7 @@
 - 💬 Posso te ajudar com: **Power BI, Excel, SQL, R e Python**  
 - 📫 E-mail: **vogadoguerrajuniormarcio@gmail.com**  
 - 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/558999449630)  
-- 🔗  LinkedIn: [linkedin.com/in/márcio-vogado-guerra-junior-498036309](https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/)
+- 🔗  LinkedIn: [linkedin.com/in/márcio-vogado-guerra-junior-498036309](https://www.linkedin.com/in/marcio-data-analyst)
 
 ---
 
@@ -60,7 +60,7 @@
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/m%C3%A1rcio-vogado-guerra-junior-498036309/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcio-data-analyst" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
 </p>

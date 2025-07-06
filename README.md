@@ -5,12 +5,12 @@
 
 🎯 **Sobre mim**
 
-- 📊 Tenho experiência prática com **Python** aplicado à Análise de Dados, explorando bibliotecas como `Pandas`, `NumPy`, `Matplotlib` e `Seaborn`  
-- 🧠 Estudo **Estatística Aplicada**, **SQL**, **R** e ferramentas de BI para tomada de decisões orientadas por dados  
-- 📈 Familiaridade com projetos de visualização utilizando **Power BI** e **Excel Avançado**  
-- 💬 Posso te ajudar com: **Power BI, Excel, SQL, R e Python**  
+- 📊 Tenho experiência com as linguagens **Python**, **R**, **SQL** e **M** aplicadas à Análise de Dados
+- 📈 Experiência em projetos reais com a utilização de ferramentas como: **Power BI**, **Banco de dados (PostgreSQL, MySQL)** e **APIs**  
+- 🧠 Conhecimento e experiência com metodologias estatísticas: **Testes de hipoteses**, **Regressões**, **Análise espacial**, **Análise temporal**, **etc**
+- 💬 **Integrações** entre ferrementas, linguagens de programação e metodologias estatísticas, para o desenvolvimento de **ideias criativas** e **eficientes** frente aos problemas que envolvem dados 
 - 📫 E-mail: **vogadoguerrajuniormarcio@gmail.com**  
-- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/558999449630)  
+- 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5589999449630)  
 - 🔗  LinkedIn: [linkedin.com/in/marcio-data-analyst](https://www.linkedin.com/in/marcio-data-analyst)
 
 ---
